@@ -4,7 +4,9 @@ Recipe generation is a case study in globally coherent structured text generatio
 
 The source code for this project is available here at https://github.com/elkong/neural-recipe-generation.
 
-## Source code
+## Contents
 
 Source code files are found as annotated Jupyter Notebooks in `./ipynb`.
+
+Sample model outputs are found in `./tmp`.
 
